@@ -1,0 +1,14 @@
+﻿<app:SalesforceApplication
+    x:Class="SplitApp.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SplitApp"
+    xmlns:app="using:Salesforce.SDK.App"
+    xmlns:localData="using:SplitApp.Data">
+
+    <Application.Resources>
+
+        <!-- Application-specific resources -->
+        <x:String x:Key="AppName">SplitApp</x:String>
+    </Application.Resources>
+</app:SalesforceApplication>

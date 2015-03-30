@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Salesforce.SDK.Store" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Salesforce.SDK.Store">
+				<NamedResource name="Salesforce.SDK.Store.xr.xml" uri="ms-resource://Salesforce.SDK.Store/Files/Salesforce.SDK.Store/Salesforce.SDK.Store.xr.xml">
+					<Candidate type="Path">
+						<Value>Salesforce.SDK.Store\Salesforce.SDK.Store.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Source">
+					<ResourceMapSubtree name="Pages">
+						<NamedResource name="AccountPage.xbf" uri="ms-resource://Salesforce.SDK.Store/Files/Salesforce.SDK.Store/Source/Pages/AccountPage.xbf">
+							<Candidate type="Path">
+								<Value>Salesforce.SDK.Store\Source\Pages\AccountPage.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\dcarroll\documents\visual studio 2015\projects\splitapp\splitapp\obj\x86\debug\intermediatexaml\splitapp.exe" HashGuid="4297d91a-22d6-dbc1-cfe7-bb3cce524c41" />
+    <ReferenceAssembly PathName="c:\users\dcarroll\documents\visual studio 2015\projects\splitapp\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
+    <ReferenceAssembly PathName="c:\users\dcarroll\documents\visual studio 2015\projects\splitapp\packages\salesforce.sdk.core.3.1.2-beta\build\win\x86\salesforce.sdk.core.dll" HashGuid="05e7a0c6-9b73-74af-1398-e81672358252" />
+    <ReferenceAssembly PathName="c:\users\dcarroll\documents\visual studio 2015\projects\splitapp\packages\salesforce.sdk.core.3.1.2-beta\build\win\x86\salesforce.sdk.store.dll" HashGuid="f2027a58-6c1c-ac6e-3fa5-0bac3f88a790" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

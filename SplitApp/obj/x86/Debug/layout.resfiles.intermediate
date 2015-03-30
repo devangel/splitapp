@@ -1,0 +1,17 @@
+Assets\DarkGray.png
+Assets\LightGray.png
+Assets\Logo.scale-100.png
+Assets\MediumGray.png
+Assets\salesforce_chatter.png
+Assets\SmallLogo.scale-100.png
+Assets\SplashScreen.scale-100.png
+Assets\StoreLogo.scale-100.png
+App.xbf
+FeedItemControl.xbf
+ItemsPage.xbf
+SplitApp.xr.xml
+SplitPage.xbf
+SplitPage2.xbf
+DataModel\chatterfeed.json
+DataModel\feeds.json
+DataModel\SampleData.json

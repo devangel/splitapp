@@ -1,0 +1,100 @@
+﻿{
+  "favorites" : [ ],
+  "feeds" : [ {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/bookmarks/me/feed-elements",
+    "feedType" : "Bookmarks",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/bookmarks/me",
+    "keyPrefix" : null,
+    "label" : "Bookmarked"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/company/feed-elements",
+    "feedType" : "Company",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/company",
+    "keyPrefix" : null,
+    "label" : "All Company"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/files/me/feed-elements",
+    "feedType" : "Files",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/files/me",
+    "keyPrefix" : null,
+    "label" : "Files"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/groups/me/feed-elements",
+    "feedType" : "Groups",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/groups/me",
+    "keyPrefix" : null,
+    "label" : "Groups"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/news/me/feed-elements",
+    "feedType" : "News",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/news/me",
+    "keyPrefix" : null,
+    "label" : "What I Follow"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/people/me/feed-elements",
+    "feedType" : "People",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/people/me",
+    "keyPrefix" : null,
+    "label" : "People"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/record/me/feed-elements",
+    "feedType" : "Record",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/record/me",
+    "keyPrefix" : null,
+    "label" : "Record"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/to/me/feed-elements",
+    "feedType" : "To",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/to/me",
+    "keyPrefix" : null,
+    "label" : "To Me"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/user-profile/me/feed-elements",
+    "feedType" : "UserProfile",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/user-profile/me",
+    "keyPrefix" : null,
+    "label" : "User Profile"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/001/feed-elements",
+    "feedType" : "Filter",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/001",
+    "keyPrefix" : "001",
+    "label" : "Accounts"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/500/feed-elements",
+    "feedType" : "Filter",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/500",
+    "keyPrefix" : "500",
+    "label" : "Cases"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/003/feed-elements",
+    "feedType" : "Filter",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/003",
+    "keyPrefix" : "003",
+    "label" : "Contacts"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/01a/feed-elements",
+    "feedType" : "Filter",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/01a",
+    "keyPrefix" : "01a",
+    "label" : "Dashboard Components"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/a1U/feed-elements",
+    "feedType" : "Filter",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/a1U",
+    "keyPrefix" : "a1U",
+    "label" : "Milestones"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/006/feed-elements",
+    "feedType" : "Filter",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/006",
+    "keyPrefix" : "006",
+    "label" : "Opportunities"
+  }, {
+    "feedElementsUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/a1V/feed-elements",
+    "feedType" : "Filter",
+    "feedUrl" : "/services/data/v32.0/chatter/feeds/filter/0051a000000giIzAAI/a1V",
+    "keyPrefix" : "a1V",
+    "label" : "Projects"
+  } ]
+}

@@ -1,0 +1,432 @@
+﻿{
+    "elements": [
+        {
+            "actor": {
+                "additionalLabel": null,
+                "communityNickname": "dcarroll-5pwn1.4096843129949211E12",
+                "companyName": "salesforce.com",
+                "displayName": "Dave Carroll",
+                "firstName": "Dave",
+                "id": "005B0000001BJw8IAG",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": "Carroll",
+                "motif": {
+                    "color": "20aeb8",
+                    "largeIconUrl": "/img/icon/profile64.png",
+                    "mediumIconUrl": "/img/icon/profile32.png",
+                    "smallIconUrl": "/img/icon/profile16.png"
+                },
+                "mySubscription": null,
+                "name": "Dave Carroll",
+                "photo": {
+                    "fullEmailPhotoUrl": "https://gs0.salesforce.com/img/userprofile/default_profile_200.png?fromEmail=1",
+                    "largePhotoUrl": "https://c.gus.content.force.com/profilephoto/005/F",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://c.gus.content.force.com/profilephoto/005/T",
+                    "standardEmailPhotoUrl": "https://gs0.salesforce.com/img/userprofile/default_profile_45.png?fromEmail=1",
+                    "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG/photo"
+                },
+                "recordViewUrl": null,
+                "reputation": null,
+                "title": "Developer",
+                "type": "User",
+                "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG",
+                "userType": "Internal"
+            },
+            "body": {
+                "messageSegments": [
+                    {
+                        "text": "Need some new feed records in this bad boy!",
+                        "type": "Text"
+                    }
+                ],
+                "text": "Need some new feed records in this bad boy!"
+            },
+            "canShare": true,
+            "capabilities": {
+                "associatedActions": {
+                    "platformActionGroups": [ ]
+                },
+                "bookmarks": {
+                    "isBookmarkedByCurrentUser": false
+                },
+                "chatterLikes": {
+                    "isLikedByCurrentUser": false,
+                    "likesMessage": null,
+                    "myLike": null,
+                    "page": {
+                        "currentPageUrl": "/services/data/v32.0/chatter/feed-elements/0D5B0000002jAaGKAU/capabilities/chatter-likes/items",
+                        "items": [ ],
+                        "nextPageUrl": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "comments": {
+                    "page": {
+                        "currentPageUrl": "/services/data/v32.0/chatter/feed-elements/0D5B0000002jAaGKAU/capabilities/comments/items",
+                        "items": [
+                            {
+                                "body": {
+                                    "messageSegments": [
+                                        {
+                                            "text": "Dude this is a comment",
+                                            "type": "Text"
+                                        }
+                                    ],
+                                    "text": "Dude this is a comment"
+                                },
+                                "capabilities": { },
+                                "clientInfo": null,
+                                "createdDate": "2015-03-06T22:34:45.000Z",
+                                "feedElement": {
+                                    "id": "0D5B0000002jAaGKAU",
+                                    "url": "/services/data/v32.0/chatter/feed-elements/0D5B0000002jAaGKAU"
+                                },
+                                "id": "0D7B00000003rvsKAA",
+                                "isDeleteRestricted": false,
+                                "likes": {
+                                    "currentPageUrl": "/services/data/v32.0/chatter/comments/0D7B00000003rvsKAA/likes",
+                                    "items": [ ],
+                                    "nextPageUrl": null,
+                                    "previousPageUrl": null,
+                                    "total": 0
+                                },
+                                "likesMessage": null,
+                                "moderationFlags": null,
+                                "myLike": null,
+                                "parent": {
+                                    "id": "005B0000001BJw8IAG",
+                                    "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG"
+                                },
+                                "relativeCreatedDate": "Just Now",
+                                "type": "TextComment",
+                                "url": "/services/data/v32.0/chatter/comments/0D7B00000003rvsKAA",
+                                "user": {
+                                    "additionalLabel": null,
+                                    "communityNickname": "dcarroll-5pwn1.4096843129949211E12",
+                                    "companyName": "salesforce.com",
+                                    "displayName": "Dave Carroll",
+                                    "firstName": "Dave",
+                                    "id": "005B0000001BJw8IAG",
+                                    "isActive": true,
+                                    "isInThisCommunity": true,
+                                    "lastName": "Carroll",
+                                    "motif": {
+                                        "color": "20aeb8",
+                                        "largeIconUrl": "/img/icon/profile64.png",
+                                        "mediumIconUrl": "/img/icon/profile32.png",
+                                        "smallIconUrl": "/img/icon/profile16.png"
+                                    },
+                                    "mySubscription": null,
+                                    "name": "Dave Carroll",
+                                    "photo": {
+                                        "fullEmailPhotoUrl": "https://gs0.salesforce.com/img/userprofile/default_profile_200.png?fromEmail=1",
+                                        "largePhotoUrl": "https://c.gus.content.force.com/profilephoto/005/F",
+                                        "photoVersionId": null,
+                                        "smallPhotoUrl": "https://c.gus.content.force.com/profilephoto/005/T",
+                                        "standardEmailPhotoUrl": "https://gs0.salesforce.com/img/userprofile/default_profile_45.png?fromEmail=1",
+                                        "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG/photo"
+                                    },
+                                    "recordViewUrl": null,
+                                    "reputation": null,
+                                    "title": "Developer",
+                                    "type": "User",
+                                    "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG",
+                                    "userType": "Internal"
+                                }
+                            }
+                        ],
+                        "nextPageUrl": null,
+                        "total": 1
+                    }
+                },
+                "topics": {
+                    "canAssignTopics": true,
+                    "items": [ ]
+                }
+            },
+            "clientInfo": null,
+            "createdDate": "2015-02-10T22:54:01.000Z",
+            "event": false,
+            "feedElementType": "FeedItem",
+            "header": {
+                "messageSegments": [
+                    {
+                        "motif": {
+                            "color": "20aeb8",
+                            "largeIconUrl": "/img/icon/profile64.png",
+                            "mediumIconUrl": "/img/icon/profile32.png",
+                            "smallIconUrl": "/img/icon/profile16.png"
+                        },
+                        "reference": {
+                            "id": "005B0000001BJw8IAG",
+                            "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG"
+                        },
+                        "text": "Dave Carroll",
+                        "type": "EntityLink"
+                    }
+                ],
+                "text": "Dave Carroll"
+            },
+            "id": "0D5B0000002jAaGKAU",
+            "isDeleteRestricted": false,
+            "modifiedDate": "2015-03-06T22:34:45.000Z",
+            "originalFeedItem": null,
+            "originalFeedItemActor": null,
+            "parent": {
+                "additionalLabel": null,
+                "communityNickname": "dcarroll-5pwn1.4096843129949211E12",
+                "companyName": "salesforce.com",
+                "displayName": "Dave Carroll",
+                "firstName": "Dave",
+                "id": "005B0000001BJw8IAG",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": "Carroll",
+                "motif": {
+                    "color": "20aeb8",
+                    "largeIconUrl": "/img/icon/profile64.png",
+                    "mediumIconUrl": "/img/icon/profile32.png",
+                    "smallIconUrl": "/img/icon/profile16.png"
+                },
+                "mySubscription": null,
+                "name": "Dave Carroll",
+                "photo": {
+                    "fullEmailPhotoUrl": "https://gs0.salesforce.com/img/userprofile/default_profile_200.png?fromEmail=1",
+                    "largePhotoUrl": "https://c.gus.content.force.com/profilephoto/005/F",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://c.gus.content.force.com/profilephoto/005/T",
+                    "standardEmailPhotoUrl": "https://gs0.salesforce.com/img/userprofile/default_profile_45.png?fromEmail=1",
+                    "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG/photo"
+                },
+                "recordViewUrl": null,
+                "reputation": null,
+                "title": "Developer",
+                "type": "User",
+                "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG",
+                "userType": "Internal"
+            },
+            "photoUrl": "https://c.gus.content.force.com/profilephoto/005/T",
+            "relativeCreatedDate": "February 10, 2015 at 2:54 PM",
+            "type": "TextPost",
+            "url": "/services/data/v32.0/chatter/feed-elements/0D5B0000002jAaGKAU",
+            "visibility": "AllUsers"
+        },
+        {
+            "actor": {
+                "additionalLabel": null,
+                "communityNickname": "dcarroll-5pwn1.4096843129949211E12",
+                "companyName": "salesforce.com",
+                "displayName": "Dave Carroll",
+                "firstName": "Dave",
+                "id": "005B0000001BJw8IAG",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": "Carroll",
+                "motif": {
+                    "color": "20aeb8",
+                    "largeIconUrl": "/img/icon/profile64.png",
+                    "mediumIconUrl": "/img/icon/profile32.png",
+                    "smallIconUrl": "/img/icon/profile16.png"
+                },
+                "mySubscription": null,
+                "name": "Dave Carroll",
+                "photo": {
+                    "fullEmailPhotoUrl": "https://gs0.salesforce.com/img/userprofile/default_profile_200.png?fromEmail=1",
+                    "largePhotoUrl": "https://c.gus.content.force.com/profilephoto/005/F",
+                    "photoVersionId": null,
+                    "smallPhotoUrl": "https://c.gus.content.force.com/profilephoto/005/T",
+                    "standardEmailPhotoUrl": "https://gs0.salesforce.com/img/userprofile/default_profile_45.png?fromEmail=1",
+                    "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG/photo"
+                },
+                "recordViewUrl": null,
+                "reputation": null,
+                "title": "Developer",
+                "type": "User",
+                "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG",
+                "userType": "Internal"
+            },
+            "body": {
+                "messageSegments": [
+                    {
+                        "text": "This is a post on my task. Please complete.",
+                        "type": "Text"
+                    }
+                ],
+                "text": "This is a post on my task. Please complete."
+            },
+            "canShare": false,
+            "capabilities": {
+                "associatedActions": {
+                    "platformActionGroups": [ ]
+                },
+                "bookmarks": {
+                    "isBookmarkedByCurrentUser": false
+                },
+                "chatterLikes": {
+                    "isLikedByCurrentUser": false,
+                    "likesMessage": null,
+                    "myLike": null,
+                    "page": {
+                        "currentPageUrl": "/services/data/v32.0/chatter/feed-elements/0D5B0000001Zzl4KAC/capabilities/chatter-likes/items",
+                        "items": [ ],
+                        "nextPageUrl": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                    }
+                },
+                "comments": {
+                    "page": {
+                        "currentPageUrl": "/services/data/v32.0/chatter/feed-elements/0D5B0000002jAaGKAU/capabilities/comments/items",
+                        "items": [
+                            {
+                                "body": {
+                                    "messageSegments": [
+                                        {
+                                            "text": "Dude this is a comment",
+                                            "type": "Text"
+                                        }
+                                    ],
+                                    "text": "Dude this is a comment"
+                                },
+                                "capabilities": { },
+                                "clientInfo": null,
+                                "createdDate": "2015-03-06T22:34:45.000Z",
+                                "feedElement": {
+                                    "id": "0D5B0000002jAaGKAU",
+                                    "url": "/services/data/v32.0/chatter/feed-elements/0D5B0000002jAaGKAU"
+                                },
+                                "id": "0D7B00000003rvsKAA",
+                                "isDeleteRestricted": false,
+                                "likes": {
+                                    "currentPageUrl": "/services/data/v32.0/chatter/comments/0D7B00000003rvsKAA/likes",
+                                    "items": [ ],
+                                    "nextPageUrl": null,
+                                    "previousPageUrl": null,
+                                    "total": 0
+                                },
+                                "likesMessage": null,
+                                "moderationFlags": null,
+                                "myLike": null,
+                                "parent": {
+                                    "id": "005B0000001BJw8IAG",
+                                    "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG"
+                                },
+                                "relativeCreatedDate": "Just Now",
+                                "type": "TextComment",
+                                "url": "/services/data/v32.0/chatter/comments/0D7B00000003rvsKAA",
+                                "user": {
+                                    "additionalLabel": null,
+                                    "communityNickname": "dcarroll-5pwn1.4096843129949211E12",
+                                    "companyName": "salesforce.com",
+                                    "displayName": "Dave Carroll",
+                                    "firstName": "Dave",
+                                    "id": "005B0000001BJw8IAG",
+                                    "isActive": true,
+                                    "isInThisCommunity": true,
+                                    "lastName": "Carroll",
+                                    "motif": {
+                                        "color": "20aeb8",
+                                        "largeIconUrl": "/img/icon/profile64.png",
+                                        "mediumIconUrl": "/img/icon/profile32.png",
+                                        "smallIconUrl": "/img/icon/profile16.png"
+                                    },
+                                    "mySubscription": null,
+                                    "name": "Dave Carroll",
+                                    "photo": {
+                                        "fullEmailPhotoUrl": "https://gs0.salesforce.com/img/userprofile/default_profile_200.png?fromEmail=1",
+                                        "largePhotoUrl": "https://c.gus.content.force.com/profilephoto/005/F",
+                                        "photoVersionId": null,
+                                        "smallPhotoUrl": "https://c.gus.content.force.com/profilephoto/005/T",
+                                        "standardEmailPhotoUrl": "https://gs0.salesforce.com/img/userprofile/default_profile_45.png?fromEmail=1",
+                                        "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG/photo"
+                                    },
+                                    "recordViewUrl": null,
+                                    "reputation": null,
+                                    "title": "Developer",
+                                    "type": "User",
+                                    "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG",
+                                    "userType": "Internal"
+                                }
+                            }
+                        ],
+                        "nextPageUrl": null,
+                        "total": 1
+                    }
+                },
+                "topics": {
+                    "canAssignTopics": true,
+                    "items": [ ]
+                }
+            },
+            "clientInfo": null,
+            "createdDate": "2014-09-30T17:40:54.000Z",
+            "event": false,
+            "feedElementType": "FeedItem",
+            "header": {
+                "messageSegments": [
+                    {
+                        "motif": {
+                            "color": "1797C0",
+                            "largeIconUrl": "/img/icon/home64.png",
+                            "mediumIconUrl": "/img/icon/home32.png",
+                            "smallIconUrl": "/img/icon/tasks16.png"
+                        },
+                        "reference": {
+                            "id": "00TB0000001jIXgMAM",
+                            "url": "/services/data/v32.0/chatter/records/00TB0000001jIXgMAM"
+                        },
+                        "text": "Practice Demo",
+                        "type": "EntityLink"
+                    },
+                    {
+                        "text": " — ",
+                        "type": "Text"
+                    },
+                    {
+                        "motif": {
+                            "color": "20aeb8",
+                            "largeIconUrl": "/img/icon/profile64.png",
+                            "mediumIconUrl": "/img/icon/profile32.png",
+                            "smallIconUrl": "/img/icon/profile16.png"
+                        },
+                        "reference": {
+                            "id": "005B0000001BJw8IAG",
+                            "url": "/services/data/v32.0/chatter/users/005B0000001BJw8IAG"
+                        },
+                        "text": "Dave Carroll",
+                        "type": "EntityLink"
+                    }
+                ],
+                "text": "Practice Demo — Dave Carroll"
+            },
+            "id": "0D5B0000001Zzl4KAC",
+            "isDeleteRestricted": false,
+            "modifiedDate": "2014-09-30T17:40:54.000Z",
+            "originalFeedItem": null,
+            "originalFeedItemActor": null,
+            "parent": {
+                "id": "00TB0000001jIXgMAM",
+                "motif": {
+                    "color": "1797C0",
+                    "largeIconUrl": "/img/icon/home64.png",
+                    "mediumIconUrl": "/img/icon/home32.png",
+                    "smallIconUrl": "/img/icon/tasks16.png"
+                },
+                "mySubscription": null,
+                "name": "Practice Demo",
+                "recordViewUrl": null,
+                "type": "Task",
+                "url": "/services/data/v32.0/chatter/records/00TB0000001jIXgMAM"
+            },
+            "photoUrl": "https://c.gus.content.force.com/profilephoto/005/T",
+            "relativeCreatedDate": "September 30, 2014 at 10:40 AM",
+            "type": "TextPost",
+            "url": "/services/data/v32.0/chatter/feed-elements/0D5B0000001Zzl4KAC",
+            "visibility": "InternalUsers"
+        }
+    ]
+
+}

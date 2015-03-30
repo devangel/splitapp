@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DCARROLL-WS1</Machine>
+    <WindowsUser>dcarroll</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>cc18cc2d-d0da-4ea1-850b-b4b52183a1f0</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>66B91FCDDD348327FEBAABA75EC312095FD6CBD3B212F9ED40E2D83492874C33</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cc18cc2d-d0da-4ea1-850b-b4b52183a1f0_1.0.0.0_x86__3tev5tjz70g78</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cc18cc2d-d0da-4ea1-850b-b4b52183a1f0_3tev5tjz70g78!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cc18cc2d-d0da-4ea1-850b-b4b52183a1f0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=dcarroll</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-26T19:56:02.671</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\bin\x86\Debug\SplitApp.exe">
+      <PackagePath>SplitApp.exe</PackagePath>
+      <Modified>2015-03-30T23:50:16.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-03-13T21:23:07.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\packages\Salesforce.SDK.Core.3.1.2-beta\build\win\x86\Salesforce.SDK.Core.dll">
+      <PackagePath>Salesforce.SDK.Core.dll</PackagePath>
+      <Modified>2015-03-16T20:51:31.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\packages\Salesforce.SDK.Core.3.1.2-beta\build\win\x86\Salesforce.SDK.Store.dll">
+      <PackagePath>Salesforce.SDK.Store.dll</PackagePath>
+      <Modified>2015-03-16T20:51:31.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\Assets\salesforce_chatter.png">
+      <PackagePath>Assets\salesforce_chatter.png</PackagePath>
+      <Modified>2015-03-17T19:09:03.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-01-21T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-01-21T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-01-21T17:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\DataModel\chatterfeed.json">
+      <PackagePath>DataModel\chatterfeed.json</PackagePath>
+      <Modified>2015-03-17T21:30:23.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\DataModel\feeds.json">
+      <PackagePath>DataModel\feeds.json</PackagePath>
+      <Modified>2015-03-17T18:06:19.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-03-13T21:03:25.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-26T19:56:01.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\bin\x86\Debug\FeedItemControl.xbf">
+      <PackagePath>FeedItemControl.xbf</PackagePath>
+      <Modified>2015-03-26T19:56:01.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\bin\x86\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2015-03-26T19:56:01.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\bin\x86\Debug\SplitPage2.xbf">
+      <PackagePath>SplitPage2.xbf</PackagePath>
+      <Modified>2015-03-26T19:56:01.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\bin\x86\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2015-03-17T22:22:25.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\bin\x86\Debug\SplitApp.xr.xml">
+      <PackagePath>SplitApp.xr.xml</PackagePath>
+      <Modified>2015-03-17T23:27:00.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\packages\Salesforce.SDK.Core.3.1.2-beta\build\win\x86\Salesforce.SDK.Core\Salesforce.SDK.Core.xr.xml">
+      <PackagePath>Salesforce.SDK.Core\Salesforce.SDK.Core.xr.xml</PackagePath>
+      <Modified>2015-03-16T20:51:31.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\packages\Salesforce.SDK.Core.3.1.2-beta\build\win\x86\Salesforce.SDK.Core\Source\Auth\PincodeDialog.xbf">
+      <PackagePath>Salesforce.SDK.Core\Source\Auth\PincodeDialog.xbf</PackagePath>
+      <Modified>2015-03-16T20:51:31.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\packages\Salesforce.SDK.Core.3.1.2-beta\build\win\x86\Salesforce.SDK.Core\Source\Native\ServerControl.xbf">
+      <PackagePath>Salesforce.SDK.Core\Source\Native\ServerControl.xbf</PackagePath>
+      <Modified>2015-03-16T20:51:31.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\packages\Salesforce.SDK.Core.3.1.2-beta\build\win\x86\Salesforce.SDK.Store\Salesforce.SDK.Store.xr.xml">
+      <PackagePath>Salesforce.SDK.Store\Salesforce.SDK.Store.xr.xml</PackagePath>
+      <Modified>2015-03-16T20:51:31.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\packages\Salesforce.SDK.Core.3.1.2-beta\build\win\x86\Salesforce.SDK.Store\Source\Pages\AccountPage.xbf">
+      <PackagePath>Salesforce.SDK.Store\Source\Pages\AccountPage.xbf</PackagePath>
+      <Modified>2015-03-16T20:51:31.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dcarroll\Documents\Visual Studio 2015\Projects\SplitApp\SplitApp\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-30T23:50:17.488</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
